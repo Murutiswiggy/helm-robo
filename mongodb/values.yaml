@@ -1,0 +1,4 @@
+statefulset:
+  replicas: 1
+  imageRepo: murali9686/mongodb
+  imageVersion: 2.0.0
